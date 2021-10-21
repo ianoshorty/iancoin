@@ -15,3 +15,16 @@ It's based on my own knowledge, together with insights gathered from a few popul
 
 Shoutout in particular to https://github.com/conradoqg/naivecoin and https://github.com/nosequeldeebee/blockchain-tutorial.
 
+## Progress
+Tracking progress of the project
+
+ - [x] Project Setup
+ - [ ] Support Wallets
+ - [ ] Support Blocks and Mining
+ - [ ] Support Chain
+ - [ ] Support Transactions
+ - [ ] Add Web Interface
+ - [ ] Functional API
+ - [ ] Add Slack Bot
+ - [ ] Functional Slack Bot
+ - [ ] Project Complete
