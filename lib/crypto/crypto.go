@@ -1,0 +1,1 @@
+// Common crypto functions needed for hashing etc
