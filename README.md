@@ -1,7 +1,7 @@
 ![:iancoin:](assets/iancoin.png) 
 # Simple Blockchain / CryptoCurrency Implementation in Go
 
-What started out as an office meme after spending a little too much on the company credit card, is now :iancoin: or Iancoin.
+What started out as an office meme after spending a little too much on the company credit card, is now :iancoin:.
 
 This project is the source code for a simple blockchain implementation - with a unique twist.
 
